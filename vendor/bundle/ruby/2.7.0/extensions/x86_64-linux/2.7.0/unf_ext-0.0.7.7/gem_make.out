@@ -1,0 +1,16 @@
+current directory: /home/brian/Development/code/Phase3/phase-3-active-record-seeding-from-apis/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/home/brian/.rbenv/versions/2.7.4/bin/ruby -I /home/brian/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20230224-38335-ofbbvm.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/brian/Development/code/Phase3/phase-3-active-record-seeding-from-apis/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /home/brian/Development/code/Phase3/phase-3-active-record-seeding-from-apis/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/brian/Development/code/Phase3/phase-3-active-record-seeding-from-apis/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/bin/install -c -m 0755 unf_ext.so ./.gem.20230224-38335-1hltakz
